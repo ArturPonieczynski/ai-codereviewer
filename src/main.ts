@@ -88,7 +88,7 @@ function createPrompt(file: File, chunk: Chunk, prDetails: PRDetails): string {
 - IMPORTANT: NEVER suggest adding comments to the code.
 - Always propose the code to resolve issues found by you.
 
-Use recommended eslint rules for express.js applications.
+Use recommended eslint rules for specific type of code.
 
 Review the following code diff in the file "${
     file.to

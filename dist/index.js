@@ -115,7 +115,7 @@ function createPrompt(file, chunk, prDetails) {
 - IMPORTANT: NEVER suggest adding comments to the code.
 - Always propose the code to resolve issues found by you.
 
-Use recommended eslint rules for express.js applications.
+Use recommended eslint rules for specific type of code.
 
 Review the following code diff in the file "${file.to}" and take the pull request title and description into account when writing the response.
   
